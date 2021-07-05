@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+margin-left:6%;
+}
+
+button{
+    padding: 8px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    
+}
+.top-banner{
+    display: flex;
+    padding: 20px;
+
+}
+
+h1{
+    font-size: 40px;
+}
+span{
+    color:orange;
+}
+.half-width1{
+    width: 50%;
+    margin-left:5%;
+    padding: 40px;
+ 
+}
+.half-width2{
+    width: 50%;
+    margin-left: 7%;
+
+}
+
+.half-width2 img{
+width: 80%;
+}
+.btn{
+    text-decoration: none;
+    padding: 15px 35px;
+    background-color: coral;
+    border-radius: 30px;
+    background-image: linear-gradient(orange ,tomato);
+    font-weight: 500;
+    color: white;
+}
+.about-me{
+    display: flex;
+    margin-top: 20px;
+    background-image: url(image/bg.png);
+}
+.half-1{
+    width:50%;
+    margin-left: 9%;
+}
+.half-1 img {
+    width:80%;
+    
+}
+.half-2{
+    width: 50%;
+    
+    padding: 50px;
+}
+.recipies{
+    text-align: center;
+    padding:10px 400px
+}
+
+
+.recipies-title{
+    display: flex;
+    margin: 2% 6%;
+}
+.title-1{
+    padding: 15px;
+    
+    margin-right: 4%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+    
+}
+.title-1 img{
+    width: 100%;
+    height: 250px;
+}
+.title-2{
+    margin-right: 4%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+}
+.title-2 img {
+    width: 100%;
+    height: 250px;
+}
+.title-3{
+border-radius: 20px;
+padding: 15px;
+box-shadow: 10px 10px 40px gainsboro;
+}
+.title-3 img{
+    width: 100%;
+    height: 250px;
+}
+
+.foter{
+    text-align: center;
+    margin-top: 70px;
+    padding: 8px;
+    background-color: black;
+    height: 150px;
+    color:gainsboro;
+}.park{
+color:gray;
+}

@@ -74,18 +74,19 @@ width: 80%;
     padding:10px 400px
 }
 
-
 .recipies-title{
     display: flex;
     margin: 2% 6%;
+    
 }
 .title-1{
     padding: 15px;
-    
     margin-right: 4%;
     border-radius: 20px;
     box-shadow: 10px 10px 40px gainsboro;
+    box-sizing: border-box;
     
+
 }
 .title-1 img{
     width: 100%;
@@ -114,7 +115,6 @@ box-shadow: 10px 10px 40px gainsboro;
 .all-about {
     display: flex;
     justify-content:space-evenly;
-    
     
 
 }
